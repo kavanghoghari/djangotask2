@@ -21,7 +21,7 @@
 
 12. Run the development server:
  ```
- python manage.py runserver
+ python3 manage.py runserver
  ```
 
 Now access  pages at:
